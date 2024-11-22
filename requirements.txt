@@ -1,0 +1,4 @@
+tencentcloud-sdk-python
+qiniu
+cryptography
+requests
