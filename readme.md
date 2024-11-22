@@ -43,6 +43,8 @@
 pip install -r requirements.txt
 ```
 
+---
+
 ## 使用方法
 
 ### 1. 配置认证信息
@@ -90,10 +92,14 @@ python certbuddy.py
 0 0 */80 * * /usr/bin/python /path/to/certbuddy.py >> /path/to/certbuddy.log 2>&1
 ```
 
+---
+
 ## 常见问题
 
 **Q: 证书申请失败怎么办？**
 A: 请检查您的腾讯云 API 密钥是否正确，域名是否已在腾讯云进行备案，且 DNS 解析设置正确。
+
+---
 
 ## 贡献指南
 
